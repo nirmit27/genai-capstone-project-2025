@@ -17,4 +17,4 @@ This tool integrates multiple Gen AI capabilities to:
 2. **Video Understanding** : Summarization of a YouTube video using the Gemini Pro model.
 3. **Retrieval augmented generation (RAG)** : Building a Q&A chatbot leveraging RAG to provide informed answers based on a video summary.
 
-> *This notebook has been submitted for the Gen AI Intensive Course Capstone 2025Q1 Project, open April 4 - April 20, 2025.*
+> *The [notebook](./notebook_nirmit27.ipynb) has been submitted for the Gen AI Intensive Course Capstone 2025Q1 Project, open April 4 - April 20, 2025.*
